@@ -1,0 +1,22 @@
+{
+    "*/_api/**": {
+        "target": "http://localhost:8082",
+        "secure": false,
+        "changeOrigin": true
+    },
+    "/style%20library/**": {
+        "target": "http://localhost:8082",
+        "secure": false,
+        "changeOrigin": true
+    },
+    "/Style%20Library/**": {
+        "target": "http://localhost:8082",
+        "secure": false,
+        "changeOrigin": true
+    },
+    "*/sp2016/**": {
+        "target": "http://localhost:8082",
+        "secure": false,
+        "changeOrigin": true
+    }
+}

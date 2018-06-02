@@ -1,0 +1,23 @@
+2018-06-02T16:25:05.605Z - info:   [12688] *** FOLDER: e:\Code\pnp-spproxy-angular\pnp-spproxy-angular ***
+2018-06-02T16:25:05.607Z - info:   [12688] VSTSVSCode/1.136.0 (VSCode 1.23.1; Windows_NT 10.0.16299; Node 7.9.0)
+2018-06-02T16:25:05.608Z - debug:  [12688] Looking for an External Context at e:\Code\pnp-spproxy-angular\pnp-spproxy-angular
+2018-06-02T16:25:05.608Z - debug:  [12688] No External Context at e:\Code\pnp-spproxy-angular\pnp-spproxy-angular
+2018-06-02T16:25:05.612Z - debug:  [12688] Looking for TFVC repository at e:\Code\pnp-spproxy-angular\pnp-spproxy-angular
+2018-06-02T16:25:05.612Z - debug:  [12688] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-02T16:25:05.613Z - debug:  [12688] Using TFS proxy: 
+2018-06-02T16:25:05.613Z - debug:  [12688] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-02T16:25:05.613Z - debug:  [12688] TFVC Repository created with repositoryRootFolder='e:\Code\pnp-spproxy-angular\pnp-spproxy-angular'
+2018-06-02T16:25:05.614Z - debug:  [12688] TFVC Repository.CheckVersion
+2018-06-02T16:25:05.615Z - debug:  [12688] TFVC: tf add -noprompt -?
+2018-06-02T16:25:05.618Z - debug:  [12688] TFVC: spawned new process (duration: 2ms)
+2018-06-02T16:25:05.623Z - debug:  [12688] TFVC: spawned new process (duration: 4ms)
+2018-06-02T16:25:05.970Z - debug:  [12688] TFVC: add exit code: 0 (duration: 354ms)
+2018-06-02T16:25:05.972Z - debug:  [12688] TFVC Minimum required version: 14.102.0
+2018-06-02T16:25:05.972Z - debug:  [12688] TFVC (TF.exe, TF.cmd) version: 15.129.27701.7
+2018-06-02T16:25:05.973Z - debug:  [12688] TFVC Repository.FindWorkspace with localPath='e:\Code\pnp-spproxy-angular\pnp-spproxy-angular'
+2018-06-02T16:25:05.974Z - debug:  [12688] TFVC: tf workfold -noprompt ********
+2018-06-02T16:25:05.976Z - debug:  [12688] TFVC: spawned new process (duration: 2ms)
+2018-06-02T16:25:06.182Z - debug:  [12688] TFVC: workfold exit code: 100 (duration: 208ms)
+2018-06-02T16:25:06.183Z - debug:  [12688] TFVC errors (via stderr): Unable to determine the source control server.
+
+2018-06-02T16:25:06.184Z - error:  [12688] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
